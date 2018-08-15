@@ -3,7 +3,10 @@
 This repository contains materials for my workshop on R and Bayesian inference held at Texas Lutheran University on August 14, 2018. 
 
 ## Workshop slides
-- /coming soon!/
+- Morning 1 - basics ([pdf](slides/morning1.pdf))
+- Morning 2 - inferential statistics ([pdf](slides/morning2.pdf))
+- Morning 3 - Tidyverse ([pdf](slides/morning3.pdf))
+- Afternoon - Bayes ([pdf](slides/afternoon.pdf))
 
 ## Software links
 - [Install R](https://www.r-project.org)
